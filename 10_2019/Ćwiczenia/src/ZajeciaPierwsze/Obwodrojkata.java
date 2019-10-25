@@ -1,5 +1,11 @@
 package ZajeciaPierwsze;
 
+/**
+ * 
+ * @author studentwsb
+ *
+ */
+
 public class Obwodrojkata {
 
 	public static void main(String[] args) {
