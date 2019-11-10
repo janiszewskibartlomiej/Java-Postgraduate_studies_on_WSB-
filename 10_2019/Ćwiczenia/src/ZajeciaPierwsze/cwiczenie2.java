@@ -1,6 +1,6 @@
 package ZajeciaPierwsze;
 
-public class wiczenei2 {
+public class cwiczenie2 {
 
 	public static void main(String[] args) {
 		
